@@ -1,1 +1,1 @@
-https://bakyttynybekov.github.io/load-calculator/
+https://bakyttynybekov.github.io/loan-calculator/
