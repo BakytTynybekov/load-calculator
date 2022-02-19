@@ -1,0 +1,16 @@
+.output {
+    display: block !important;
+}
+#output {
+    display: none;
+}
+
+#loader {
+display: none;
+}
+
+#output input {
+    font-weight: bold;
+}
+
+
